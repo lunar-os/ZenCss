@@ -1,10 +1,6 @@
-# My Zen Browser setup
+# My Zen Browser setup [twilight edition]
 ## tacky code warning ⚠️
 
 Preivew
 
 ![Preview](preview.png)
-
-Dynamic url bar | [Need this](https://addons.mozilla.org/en-GB/firefox/addon/adaptive-tab-bar-colour/)
-
-![Dynamic](dynamic.gif)
