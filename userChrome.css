@@ -86,19 +86,18 @@
     border-radius: 8px !important;
     border: 1px solid #ffffff0c !important;
 }
-  /* OLD TITLEBAR
   .titlebar-button > .toolbarbutton-icon {
-    background: #ffffff1f !important;
+    background: #ffffff00 !important;
     list-style-image: none;
     border-radius: 10px;
     transition: 0.2s ease;
     border: 1px solid #3aea4900 !important;
   }
   .titlebar-min > .toolbarbutton-icon {
-    background: #ffffff1f !important;
+    background: #ffffff00 !important;
   }
   .titlebar-close > .toolbarbutton-icon {
-    background: #ffffff1f !important;
+    background: #ffffff00 !important;
   }
   
   .titlebar-button:hover > .toolbarbutton-icon {
@@ -113,7 +112,7 @@
     background: #f34f5694 !important;
     border: 1px solid #f34f56 !important;
   }
-  /*
+  
 
   
   */
