@@ -85,8 +85,8 @@
     box-shadow: 0px 1px 10px rgba(0,0,0,0.1) !important;
     border-radius: 8px !important;
     border: 1px solid #ffffff0c !important;
-  }
-  
+}
+  /* OLD TITLEBAR
   .titlebar-button > .toolbarbutton-icon {
     background: #ffffff1f !important;
     list-style-image: none;
@@ -114,10 +114,7 @@
     border: 1px solid #f34f56 !important;
   }
   /*
-  .titlebar-button {
-    background: transparent !important;
-    padding-inline: 5px !important;
-  }
+
   
   */
   #zen-workspaces-button {
@@ -204,7 +201,7 @@
   }
 
 }
-
+/* NEWEST TWILIGHT ALREADY BUILT IN
 #navigator-toolbox{
   background-color:rgba(0,0,0,0) !important;
 }
@@ -214,7 +211,7 @@ background-color: rgba(41, 47, 52, 0) !important;
 background-image: none !important;
 --zen-main-browser-background: rgba(0, 0, 0, 0) !important;
 }
-
+*/
 tab-group {
   display: grid !important;
   background: color-mix(in srgb, var(--tab-group-color-invert) 10%, transparent) !important;
