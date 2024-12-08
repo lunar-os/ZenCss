@@ -299,3 +299,8 @@ tab-group:has(tab[hidden]){
   background: #ffffff17 !important;
   border: 1px solid #ffffff21 !important;
 }
+
+.titlebar-button {
+  background: none !important;
+  padding: 8px 8px !important;
+}
