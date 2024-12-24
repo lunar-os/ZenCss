@@ -1,6 +1,6 @@
 # My Zen Browser setup [twilight edition]
 
-Preivew
+Preview
 
 ![Preview](BbbZki9Kho.png)
 
